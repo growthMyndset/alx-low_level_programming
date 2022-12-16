@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib>
+#include <stdlib.h>
 #include <time.h>
 
 /**
@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-	char ch = 'a';
+	char ch ='a';
 
 	while (ch <= 'z')
 	{
