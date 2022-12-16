@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdlib.h>
+#include <time.h>
 
 /**
  * main - return single integer from 0-10
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 
 {
@@ -18,5 +19,6 @@ int main(void)
 		num++;
  	}
 	putchar('\n');
+
 	return (0);
 }
